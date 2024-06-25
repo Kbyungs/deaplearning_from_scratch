@@ -1,1 +1,1 @@
-# deaplearning_from_scratch
+# 딥러닝 찍먹
